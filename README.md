@@ -50,10 +50,12 @@ film porfolio: **[https://drive.google.com/file/d/1m3aFLAK4TE29ybbdOzObLS8zrrX3o
 <a href="https://github.com/KushagraBharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KushagraBharti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/KushagraBharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KushagraBharti" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/kushagrabharti17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kushagrabharti17" height="30" width="40" /></a>
-<a href="https://twitter.com/KushagraBharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KushagraBharti" height="30" width="40" /></a>
+<a href="https://x.com/IamKushagraB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KushagraBharti" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@kushagrabharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@kushagrabharti" height="30" width="40" /></a>
 <a href="https://leetcode.com/https://leetcode.com/u/KushagraBharti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/KushagraBharti/" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Main Languages and Tools</h3>
 very cool technologies that i've worked with in-depth:
