@@ -38,8 +38,11 @@ hey there! I'm i am kushagra bharti
 - i am also interested in **psychology, reading, arts,** etc.
 
 reach me at: **kushagrabharti@gmail.com**
+
 my personal site: **[https://www.kushagrabharti.com/](https://www.kushagrabharti.com/)**
+
 my linkedin: **[https://www.linkedin.com/in/kushagra-bharti/](https://www.linkedin.com/in/kushagra-bharti/)**
+
 film porfolio: **[https://drive.google.com/file/d/1m3aFLAK4TE29ybbdOzObLS8zrrX3oJwM/view?usp=sharing](https://drive.google.com/file/d/1m3aFLAK4TE29ybbdOzObLS8zrrX3oJwM/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
