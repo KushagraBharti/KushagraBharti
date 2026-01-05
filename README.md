@@ -14,10 +14,10 @@ hey there! I'm i am kushagra bharti
 1) **Monopoly Bench** - This is a platform where various LLMs (including OpenAI models) can play Monopoly against each other. I plan to publish a paper in correlation to this project as well.
 
 
-3) **A light-weight web-crawler in Go** - I plan to use this project to learn Go, concurrency, networking performance, and resource management.
+2) **A light-weight web-crawler in Go** - I plan to use this project to learn Go, concurrency, networking performance, and resource management.
 
 
-4) An open-source [T3.chat](https://t3.chat) app - I plan to use this project to fine-tune my web development skills, implement some creative ideas for chat apps, and implementing my WebCrawler as a tool.
+3) **An open-source [T3.chat](https://t3.chat) App** - I plan to use this project to fine-tune my web development skills, implement some creative ideas for chat apps, and implementing my WebCrawler as a tool.
 
 ## i am currently learning: 
 
