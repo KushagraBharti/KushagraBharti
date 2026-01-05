@@ -21,13 +21,13 @@ hey there! I'm i am kushagra bharti
 
 ## i am currently learning: 
 
-1) Go
-2) WebSockets
-3) Training ML models
-4) Networking Performance
-5) LLMs (tool-calling, context-management, etc.)
-6) Resource Management
-7) Data Management
+1) Go (concurrency) - Adding another backend language to my arsenal
+2) WebSockets - Learning how to build and optimize real-time apps
+3) Training ML models - ML Fundaments applied to projects to build models from scratch
+4) LLMs (tool-calling, context-management, etc.) - Learning to build agent harnesses around LLMs
+6) Networking Performance
+7) Resource Management
+8) Data Management
 
 ## things outside of technology:
 
