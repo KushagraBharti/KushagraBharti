@@ -1,4 +1,4 @@
-hey there! I'm i am kushagra bharti
+### hey there! I'm i am kushagra bharti
 
 #### an aspiring founder, but right now i am just focused on building my skills and learning
 
