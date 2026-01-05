@@ -21,26 +21,25 @@ hey there! I'm i am kushagra bharti
 
 ## i am currently learning: 
 
-1) Go (concurrency) - Adding another backend language to my arsenal
-2) WebSockets - Learning how to build and optimize real-time apps
-3) Training ML models - ML Fundaments applied to projects to build models from scratch
-4) LLMs (tool-calling, context-management, etc.) - Learning to build agent harnesses around LLMs
-6) Networking Performance
-7) Resource Management
-8) Data Management
+- **Go (concurrency)** - Adding another backend language to my arsenal
+- **WebSockets** - Building and optimizing real-time applications
+- **Machine Learning Fundamentals** - Applying ML theory to projects and building models from scratch
+- **LLMs (tool-calling, context management, etc.)** - Developing agent frameworks around large language models
+- **Networking Performance** - Optimizing network efficiency and throughput
+- **Resource Management** - Efficient memory and CPU utilization
+- **Data Management** - Best practices for handling and processing data at scale
 
 ## things outside of technology:
 
-- i love to cook, and have been cooking since i was five years old.
-- i do filmmaking (portfolio below), 
-- i love sports. i play soccer, volleyball, tennis, and table tennis; and i also watch soccer (visca barca!) formula 1, and the UFC
-- i am also interested in finance and the application of technology in finance
-- i am also interested in psychology, reading, arts, etc.
+- i love to **cook**, and have been cooking since i was five years old.
+- i love **filmmaking** (portfolio below), i've **directed 2 short films**, and have contributed to a few more as videographer and editor.
+- i love **sports**. i play **soccer**, **volleyball**, **tennis**, and **table tennis**; and i also watch **soccer (visca barca!), formula 1, and the UFC**.
+- i am also interested in **finance** and the **application of technology in finance**.
+- i am also interested in **psychology, reading, arts,** etc.
 
 reach me at: **kushagrabharti@gmail.com**
-
 my personal site: **[https://www.kushagrabharti.com/](https://www.kushagrabharti.com/)**
-
+my linkedin: **[https://www.linkedin.com/in/kushagra-bharti/](https://www.linkedin.com/in/kushagra-bharti/)**
 film porfolio: **[https://drive.google.com/file/d/1m3aFLAK4TE29ybbdOzObLS8zrrX3oJwM/view?usp=sharing](https://drive.google.com/file/d/1m3aFLAK4TE29ybbdOzObLS8zrrX3oJwM/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
