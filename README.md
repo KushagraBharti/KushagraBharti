@@ -21,11 +21,21 @@ hey there! I'm i am kushagra bharti
 
 ## i am currently learning: 
 
-Go, WebSockets, Training ML models, Networking Performance, LLMs (tool-calling, context-management, etc.), resource management, and data management.
+1) Go
+2) WebSockets
+3) Training ML models
+4) Networking Performance
+5) LLMs (tool-calling, context-management, etc.)
+6) Resource Management
+7) Data Management
 
 ## things outside of technology:
 
-i love to cook, i do filmmaking (portfolio below), i love sports
+- i love to cook, and have been cooking since i was five years old.
+- i do filmmaking (portfolio below), 
+- i love sports. i play soccer, volleyball, tennis, and table tennis; and i also watch soccer (visca barca!) formula 1, and the UFC
+- i am also interested in finance and the application of technology in finance
+- i am also interested in psychology, reading, arts, etc.
 
 reach me at: **kushagrabharti@gmail.com**
 
