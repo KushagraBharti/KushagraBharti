@@ -11,7 +11,7 @@
 
 ## projects i am working on:
 
-1) **Monopoly Bench** - This is a platform where various LLMs (including OpenAI models) can play Monopoly against each other. I plan to publish a paper in correlation to this project as well.
+1) **Monopoly Bench** - This is a platform where various LLMs can play Monopoly against each other. I plan to publish a paper in correlation to this project as well.
 
 
 2) **A light-weight web-crawler in Go** - I plan to use this project to learn Go, concurrency, networking performance, and resource management.
